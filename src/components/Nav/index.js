@@ -8,7 +8,7 @@ function Nav() {
     <header>
         <h2>
     <a href="/">
-      <span role="img" aria-label="camera"> 📸</span> Oh Snap!
+      <span role="wave" aria-label="wave"> </span> Ryan Jolley
     </a>
   </h2>
   <nav>
@@ -39,14 +39,14 @@ function Nav() {
 
 const categories = [
     {
-      name: "commercial",
+      name: "Front End",
       description:
         "Photos of grocery stores, food trucks, and other commercial projects",
     },
-    { name: "portraits", description: "Portraits of people in my life" },
+    { name: "Back-End", description: "Portraits of people in my life" },
     { name: "food", description: "Delicious delicacies" },
     {
-      name: "landscape",
+      name: "Full Stack",
       description: "Fields, farmhouses, waterfalls, and the beauty of nature",
     },
   ];
